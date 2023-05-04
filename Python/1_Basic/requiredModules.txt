@@ -1,0 +1,11 @@
+# Python Lv1 (BASIC)
+
+[Required Modules]
+1. webbrowser (Open Linker)
+ -> pip install webbrowser
+2. PIL (Screen shot, Image fusion)
+ -> pip install pillow
+3. PyautoGUI (Screenshot)
+ -> pip install pyautogui
+4. Pygame (Game)
+ -> pip install pygame
